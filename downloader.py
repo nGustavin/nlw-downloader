@@ -7,51 +7,51 @@ episode = 1
 
 # React
 
-# os.mkdir('react')
+os.mkdir('react')
 path = os.getcwd()
-# os.chdir(f'{path}/react')
+os.chdir(f'{path}/react')
 
-# for episode in range(1, 6, 1):
-#     ytOptions = {}
-#     with youtube_dl.YoutubeDL(ytOptions) as yt:
-#         yt.download([f'https://nextlevelweek.com/episodios/{techs[0]}/{episode}/edicao/5'])
-#         episode += 1
+for episode in range(1, 6, 1):
+    ytOptions = {}
+    with youtube_dl.YoutubeDL(ytOptions) as yt:
+        yt.download([f'https://nextlevelweek.com/episodios/{techs[0]}/aula-{episode}/edicao/6'])
+        episode += 1
 
-# # NodeJS
+# NodeJS
 
-# os.chdir(f'{path}')
-# os.mkdir('node')
-# os.chdir(f'{path}/node')
+os.chdir(f'{path}')
+os.mkdir('node')
+os.chdir(f'{path}/node')
 
-# for episode in range(1, 6, 1):
-#     ytOptions = {}
-#     with youtube_dl.YoutubeDL(ytOptions) as yt:
-#         yt.download([f'https://nextlevelweek.com/episodios/{techs[1]}/{episode}/edicao/5'])
-#         episode += 1
+for episode in range(1, 6, 1):
+    ytOptions = {}
+    with youtube_dl.YoutubeDL(ytOptions) as yt:
+        yt.download([f'https://nextlevelweek.com/episodios/{techs[1]}/aula-{episode}/edicao/6'])
+        episode += 1
 
-# # Elixir
+# Elixir
 
-# os.chdir(f'{path}')
-# os.mkdir('elixir')
-# os.chdir(f'{path}/elixir')
+os.chdir(f'{path}')
+os.mkdir('elixir')
+os.chdir(f'{path}/elixir')
 
-# for episode in range(1, 6, 1):
-#     ytOptions = {}
-#     with youtube_dl.YoutubeDL(ytOptions) as yt:
-#         yt.download([f'https://nextlevelweek.com/episodios/{techs[2]}/{episode}/edicao/5'])
-#         episode += 1
+for episode in range(1, 6, 1):
+    ytOptions = {}
+    with youtube_dl.YoutubeDL(ytOptions) as yt:
+        yt.download([f'https://nextlevelweek.com/episodios/{techs[2]}/aula-{episode}/edicao/6'])
+        episode += 1
 
-# # Flutter
+# Flutter
 
-# os.chdir(f'{path}')
-# os.mkdir('flutter')
-# os.chdir(f'{path}/flutter')
+os.chdir(f'{path}')
+os.mkdir('flutter')
+os.chdir(f'{path}/flutter')
 
-# for episode in range(1, 6, 1):
-#     ytOptions = {}
-#     with youtube_dl.YoutubeDL(ytOptions) as yt:
-#         yt.download([f'https://nextlevelweek.com/episodios/{techs[3]}/{episode}/edicao/5'])
-#         episode += 1
+for episode in range(1, 6, 1):
+    ytOptions = {}
+    with youtube_dl.YoutubeDL(ytOptions) as yt:
+        yt.download([f'https://nextlevelweek.com/episodios/{techs[3]}/aula-{episode}/edicao/6'])
+        episode += 1
 
 # React Native
 
@@ -62,7 +62,7 @@ os.chdir(f'{path}/react-native')
 for episode in range(1, 6, 1):
     ytOptions = {}
     with youtube_dl.YoutubeDL(ytOptions) as yt:
-        yt.download([f'https://nextlevelweek.com/episodios/{techs[4]}/{episode}/edicao/5'])
+        yt.download([f'https://nextlevelweek.com/episodios/{techs[4]}/aula-{episode}/edicao/6'])
         episode += 1
 
 
