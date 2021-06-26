@@ -6,13 +6,13 @@ With this script you can **easily** download all the episodes to watch later!
 
 ## Features
 
-[x] Each course gets it's own folder
+- [x] Each course gets it's own folder
 
-[ ] Select which courses you want to download
+- [ ] Select which courses you want to download
 
 > at the moment: you need to change the ``COURSES`` variable.
 
-[ ] Select where all courses will be downloaded
+- [ ] Select where all courses will be downloaded
 
 > at the moment: all the folders will be created where the script is executed
 
