@@ -35,3 +35,16 @@ And then, we can run the script.
 ```bash
 python3 .
 ```
+# Contributors
+
+<a href="https://github.com/ngustavin"> 
+    <h4 href="https://github.com/ngustavin">Gustavo Fernandes</h4>
+   <img src="https://github.com/ngustavin.png" width="200" align="center">
+</a>
+
+<br></br>
+
+<a href="https://github.com/wetrustinprize"> 
+    <h4 href="https://github.com/wetrustinprize">Peterson Adami Candido</h4>
+   <img src="https://github.com/wetrustinprize.png" width="200" align="center">
+</a>
