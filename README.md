@@ -10,7 +10,7 @@ With this script you can **easily** download all the episodes to watch later!
 
 - [ ] Select which courses you want to download
 
-> at the moment: you need to change the ``COURSES`` variable.
+> at the moment: you need to change the ``TECHS`` variable.
 
 - [ ] Select where all courses will be downloaded
 
