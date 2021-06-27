@@ -27,7 +27,7 @@ git clone https://github.com/nGustavin/nlw-downloader.git
 Now we need to install the requirements.
 
 ```bash
-python3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 And then, we can run the script.
