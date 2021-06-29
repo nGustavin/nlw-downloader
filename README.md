@@ -8,11 +8,11 @@ With this script you can **easily** download all the episodes to watch later!
 
 - [x] Each course gets it's own folder
 
-- [ ] Select which courses you want to download
+- [ ] Select which courses you want to download #1
 
 > at the moment: you need to change the ``TECHS`` variable.
 
-- [ ] Select where all courses will be downloaded
+- [ ] Select where all courses will be downloaded #2
 
 > at the moment: all the folders will be created where the script is executed
 
