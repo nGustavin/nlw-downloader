@@ -10,9 +10,9 @@ With this script you can **easily** download all the episodes to watch later!
 
 - [ ] Select which courses you want to download
 
-> at the moment: you need to change the ``TECHS`` variable. [https://github.com/nGustavin/nlw-downloader/issues/1](#1)
+> at the moment: you need to change the ``TECHS`` variable. [#1](https://github.com/nGustavin/nlw-downloader/issues/1)
 
-- [ ] Select where all courses will be downloaded [https://github.com/nGustavin/nlw-downloader/issues/2](#2)
+- [ ] Select where all courses will be downloaded [#2](https://github.com/nGustavin/nlw-downloader/issues/2)
 
 > at the moment: all the folders will be created where the script is executed
 
